@@ -1,0 +1,19 @@
+
+.botones{
+
+    display: flex;
+    
+    justify-content:right ;
+    margin-top: 20px;
+    
+}
+   label{
+    font-size: 15px;
+
+   }
+
+   button{
+    margin-top: 20px;
+   }
+
+   
